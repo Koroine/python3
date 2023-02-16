@@ -1,0 +1,5 @@
+print("welcome to python programming")
+print(67+23)
+print("python is easy to learn ")
+print("it is used bt programmers")
+print("WELCOME TO EMOBILIS TRAINING INSTITUTE FOR YOUNG SOFTWARE DEVELOPERS")
